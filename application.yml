@@ -1,8 +1,1 @@
-server:
-  port: 8393
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/AshokChowdaryP/spring-cloud-config-store
+
